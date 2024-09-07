@@ -1,0 +1,17 @@
+{
+    "name": "xjryanse/douyin",
+    "description": "抖音开放平台",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xjryanse",
+            "email": "xjryanse@sina.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "xjryanse\\douyin\\": "src/"
+        }
+    }
+}
